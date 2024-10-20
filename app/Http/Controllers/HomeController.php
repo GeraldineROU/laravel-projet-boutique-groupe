@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 class HomeController extends Controller
 {
     public function index(){
-        return view('homepage', ['homeTitle' => 'Homepage']);
+        return view('homepage', ['homeTitle' => 'Bienvenue !']);
     }
 }
 

@@ -1,4 +1,30 @@
+.navbar {
+    background-color: #ffac30;
+}
+
 body {
-    background-color: #1E90FF; /* Blue ocean color */
+    background-color: #de8d37;
     color: white;
 }
+
+footer {
+    background-color: #45281f;
+    color: #ecf0f1; /* Texte gris clair */
+}
+
+.custom-button {
+    background-color: #0b8c29;
+    border-color: #044a14;
+    color: white;
+}
+
+.custom-button:hover {
+    background-color: #ff8f66;
+    border-color: #ff8f66;
+}
+
+.custom-img {
+    max-width: 300px;
+    height: auto;
+}
+
