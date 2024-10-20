@@ -23,12 +23,6 @@
             sainement et soutenir une agriculture respectueuse de l'environnement.
         </p>
 
-        <p>
-            Nous avons également des offres spéciales chaque semaine pour vous permettre de découvrir de nouveaux produits
-            et faire des économies sur vos achats. Nos livraisons sont rapides et flexibles, avec des créneaux horaires qui s’adaptent
-            à votre emploi du temps chargé.
-        </p>
-
         <p class="text-center">
             <a href="{{url("/product")}}" class="btn custom-button">Découvrir la boutique</a>
         </p>

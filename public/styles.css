@@ -13,9 +13,9 @@ footer {
 }
 
 .custom-button {
-    background-color: #0b8c29;
-    border-color: #044a14;
-    color: white;
+    background-color: #a97ede;
+    border-color: #ffc508;
+    color: #ffc508;
 }
 
 .custom-button:hover {
@@ -26,5 +26,9 @@ footer {
 .custom-img {
     max-width: 300px;
     height: auto;
+}
+
+h1 {
+    color: #ffc508;
 }
 
